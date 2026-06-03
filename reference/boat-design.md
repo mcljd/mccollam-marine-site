@@ -1,24 +1,23 @@
 # Boat Design
 
 **Source:** <https://mccollammarine.com/boat-design/>
-**Status:** STUB — not yet extracted (blocked: no outbound access to mccollammarine.com)
+**Status:** Search-derived — PARTIAL. Verify and expand against live site. Images `_TODO_`.
 
-> Run extraction from a session with web egress to the source site, then replace
-> this stub with the page's headings, body text, service descriptions, calls to
-> action, and contact details.
+## Body content (partial)
 
-## Headings
+McCollam Marine provides Naval Architecture and boat design services, drawing on
+20+ years of experience in Naval Architecture, Boat Building, Boat Surveying and
+Consultancy. The business caters for a wide range of vessel types and operations on
+both the commercial and leisure fleet throughout Ireland, UK, Europe and Worldwide.
 
-_TODO_
-
-## Body content
-
-_TODO_
+> Note: search returned limited detail for this page — the full boat-design page copy
+> (design process, CAD/hull design, new-build support, etc.) should be captured from
+> the live site.
 
 ## Calls to action
 
-_TODO_
+- Contact us to discuss a design project
 
-## Contact details on this page
+## Images on this page
 
-_TODO_
+_TODO_ (needs live site / screenshot)

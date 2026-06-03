@@ -40,12 +40,16 @@ until the source material in `reference/` has been extracted and reviewed.
 ## Status
 
 - [x] Project scaffold (folders, `.gitignore`, `README`)
-- [ ] Source content extracted to `reference/` *(blocked: see note below)*
+- [x] Text content extracted to `reference/` *(search-derived — verify against live site)*
+- [ ] Brand colours, fonts, logo URL, and image URLs *(needs live site / screenshots)*
 - [ ] Source material reviewed and approved
 - [ ] Design build
 
-> **Note on extraction:** Fetching the live pages requires outbound web access
-> to `mccollammarine.com`. In a session whose network policy blocks that host,
-> the `reference/` files remain stubs. Run the extraction from a session with
-> egress to the site allowed. See the network-policy docs:
-> <https://code.claude.com/docs/en/claude-code-on-the-web>
+> **Note on extraction method:** Direct fetching of `mccollammarine.com` is
+> blocked by this environment's network policy, so the page **text** in
+> `reference/` was reconstructed via web search and should be verified against
+> the live site. The **visual** material — exact hex colours, font families, the
+> logo image URL, and every page/gallery image URL — could not be recovered this
+> way and is marked `_TODO_`. Capture it from a session with web egress to the
+> site (see <https://code.claude.com/docs/en/claude-code-on-the-web>) or from
+> screenshots/files.

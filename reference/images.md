@@ -1,7 +1,9 @@
 # Image URLs by Page — McCollam Marine
 
-**Status:** STUB — not yet extracted (blocked: no outbound access to mccollammarine.com).
-List every image URL found on each page, with alt text/caption, once extraction runs.
+**Status:** NOT extracted — web search does not return image URLs, and direct
+fetching of mccollammarine.com is blocked in this session. Image URLs (logo, page
+photos, gallery) need a session with web egress to the site, or screenshots/files
+from the owner. List every image URL found on each page, with alt text/caption.
 
 Format per page:
 

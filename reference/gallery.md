@@ -1,24 +1,13 @@
 # Gallery
 
 **Source:** <https://mccollammarine.com/gallery/>
-**Status:** STUB — not yet extracted (blocked: no outbound access to mccollammarine.com)
+**Status:** NOT extracted — a gallery is image-only and web search returns no image URLs.
 
-> Run extraction from a session with web egress to the source site, then replace
-> this stub with the page's headings, body text, service descriptions, calls to
-> action, and contact details.
-
-## Headings
-
-_TODO_
-
-## Body content
-
-_TODO_
-
-## Calls to action
-
-_TODO_
-
-## Contact details on this page
+> The gallery's photo URLs and captions must come from the live site (network access)
+> or from screenshots/files you provide. List each image here once available:
+>
+> ```
+> - <image url> — caption/alt: "<text>"
+> ```
 
 _TODO_

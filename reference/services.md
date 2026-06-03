@@ -1,24 +1,32 @@
 # Services
 
 **Source:** <https://mccollammarine.com/services/>
-**Status:** STUB — not yet extracted (blocked: no outbound access to mccollammarine.com)
+**Status:** Search-derived — verify wording against live site. Images `_TODO_`.
 
-> Run extraction from a session with web egress to the source site, then replace
-> this stub with the page's headings, body text, service descriptions, calls to
-> action, and contact details.
+## Overview
 
-## Headings
+McCollam Marine provides Naval Architecture and Marine Surveying services for a wide
+range of vessel types and operations on both commercial and leisure fleets
+throughout Ireland, UK, Europe and Worldwide.
 
-_TODO_
+## Services offered
 
-## Body content
+- **Passenger Boat Coding** — MCA Codes of Practice coding/certification for small
+  commercial vessels (authorised surveyor for YDSA, YBDSA and Mecal).
+- **Boat Surveys** — Pre-Purchase, Insurance, Damage, and Condition & Valuation surveys.
+- **Fishing Vessels** — Under-15m registration inspections, lightship checks, and
+  stability information booklets (SEAFISH and MCA requirements).
+- **Stability Book** — Stability tests, lightship checks, inclining tests, and
+  production of stability books.
+- **Boat Design** — Naval architecture / boat design services.
 
-_TODO_
+Recognised by the major Certifying Authorities including the YDSA, YBDSA, Mecal,
+SEAFISH and the MCA.
 
 ## Calls to action
 
-_TODO_
+- Contact us for a quote
 
-## Contact details on this page
+## Images on this page
 
-_TODO_
+_TODO_ (needs live site / screenshot)

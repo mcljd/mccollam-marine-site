@@ -1,24 +1,29 @@
 # Boat Surveys
 
 **Source:** <https://mccollammarine.com/boat-surveys/>
-**Status:** STUB — not yet extracted (blocked: no outbound access to mccollammarine.com)
-
-> Run extraction from a session with web egress to the source site, then replace
-> this stub with the page's headings, body text, service descriptions, calls to
-> action, and contact details.
-
-## Headings
-
-_TODO_
+**Status:** Search-derived — verify wording against live site. Images `_TODO_`.
 
 ## Body content
 
-_TODO_
+Boat Surveys are carried out on all types of Commercial and Leisure boats, covering
+Northern Ireland, Ireland, the UK and Worldwide. McCollam Marine is recognised by the
+major Certifying Authorities including the YDSA, Mecal and the MCA.
+
+### Survey types
+
+- **Pre-Purchase Surveys** — An in-depth inspection of the boat to give a clear
+  indication of the condition of the vessel prior to purchase.
+- **Insurance Surveys** — Required by the majority of insurers once a vessel goes
+  over a certain age.
+- **Damage Surveys** — Generally carried out at the request of the insurance company
+  if a vessel has been involved in an accident.
+- **Condition and Valuation Surveys** — Generally carried out at the request of
+  potential owners or the lending institution before lending terms can be agreed.
 
 ## Calls to action
 
-_TODO_
+- Contact us to book a survey
 
-## Contact details on this page
+## Images on this page
 
-_TODO_
+_TODO_ (needs live site / screenshot)
