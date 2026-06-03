@@ -3,6 +3,9 @@
    ============================================================ */
 (function () {
   'use strict';
+  /* Mark that JS is running. CSS only hides reveal elements under html.js,
+     so if this script never runs the page stays fully visible. */
+  document.documentElement.classList.add('js');
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   /* ---- Header state on scroll ---- */
