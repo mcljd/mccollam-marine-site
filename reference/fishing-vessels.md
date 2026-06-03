@@ -1,37 +1,30 @@
 # Fishing Vessels
 
-**Source:** <https://mccollammarine.com/fishing-vessels/>
-**Status:** Search-derived — verify wording against live site. Images `_TODO_`.
+**Source:** <https://mccollammarine.com/fishing-vessels/> (page id 30)
+**Title tag:** Fishing Vessel Surveys | McCollam Marine – SEAFISH Authorised Surveyor
 
-## Body content
+## Hero
 
-McCollam Marine provides fishing vessels with a wide range of services catering to
-both the under-15m and over-15m fishing fleets throughout the UK and Ireland, to
-SEAFISH and MCA requirements.
+- **Eyebrow:** Services
+- **H1:** Fishing Vessels
+- **Sub:** Specialist surveys, stability and compliance services for commercial fishing vessels across Northern Ireland, Ireland and the UK.
+- **Hero image:** 2018/01/cropped-1200.jpg
 
-### Under 15m fishing vessel registration
+## Specialist Fishing Vessel Services
 
-McCollam Marine is authorised by the MCA to carry out registration inspections on
-existing vessels under 15m that require coming onto the UK Register. McCollam Marine
-is also authorised to carry out inspections on behalf of SEAFISH for new builds and
-for existing vessels coming onto the UK Register.
+Commercial fishing vessels operate under some of the most demanding regulatory requirements in the maritime sector. McCollam Marine has extensive experience working with fishing vessel owners, skippers and fleet managers — delivering surveys, stability assessments and compliance documentation that meet the requirements of the MCA, SFPA (Sea Fisheries Protection Authority) and SEAFISH.
 
-### Lightship checks
+## Our Fishing Vessel Services
 
-All fishing vessels over 15m are required to have a lightship check carried out every
-5 years to ensure the vessel is within acceptable limits on displacement and LCG.
-McCollam Marine is authorised by the MCA to carry out these checks and issue reports
-to the MCA.
+- **Fishing Vessel Survey** — Condition and statutory surveys for vessels of all sizes, from small inshore craft to larger offshore fishing vessels.
+- **Stability Assessment** — Stability booklets and calculations to MCA and SFPA requirements, including inclining experiments where required.
+- **Tonnage Measurement** — Tonnage measurement and certification for fishing vessel registration and licensing purposes.
+- **Compliance Support** — Guidance on meeting regulatory requirements and managing deficiencies identified during surveys.
 
-### Stability
+## Certifying Authorities
 
-All fishing vessels over 15m require stability information booklets. McCollam Marine
-can carry out all aspects of stability tests and produce stability books if necessary.
+As an authorised surveyor for SEAFISH, McCollam Marine can carry out statutory surveys and produce documentation required by the Sea Fisheries Protection Authority (SFPA) and the UK MCA, supporting vessel owners across Northern Ireland and Ireland.
 
-## Calls to action
+## CTA — "Ready to Discuss Your Project?"
 
-- Contact us about fishing vessel services
-
-## Images on this page
-
-_TODO_ (needs live site / screenshot)
+Request a Quote · Email Us Directly

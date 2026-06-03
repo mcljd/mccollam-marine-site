@@ -1,26 +1,34 @@
 # Contact
 
-**Source:** <https://mccollammarine.com/contact-us/>
-**Status:** Search-derived — verify against live site. Images/map/form `_TODO_`.
+**Source:** <https://mccollammarine.com/contact-us/> (page id 3)
+**Title tag:** Contact McCollam Marine | Naval Architects & Marine Surveyors NI
 
-## Contact details
+## Hero
 
-- **Name:** McCollam Marine — Naval Architects & Marine Surveyors
-- **Address:** Dalriada, Cushendall, Co. Antrim, Northern Ireland, BT44 0QF
-- **Phone:** 07557 912520
+- **Eyebrow:** Get In Touch
+- **H1:** Contact McCollam Marine
+- **Sub:** Tell us about your vessel and project requirements. We will respond promptly with clear advice and a plan of work.
+- **Hero image:** 2026/01/wb-1024x768.jpg
+
+## Enquiry Details
+
+Whether you need a pre-purchase survey, passenger boat coding support, stability documentation or naval architecture services — get in touch and we will advise on the best approach for your project.
+
 - **Email:** info@mccollammarine.com
-- **Hours:** Monday–Friday, 9am–5pm
-- **Facebook:** https://www.facebook.com/McCollam.Marine/
+- **Coverage:** Northern Ireland · Ireland · UK & Beyond
+- **Certifying Authorities:** MCA · YDSA · YBDSA · Mecal · SEAFISH
 
-## Calls to action
+> The current contact page shows email + coverage + authorities only. Phone
+> (07557 912520), postal address (Dalriada, Cushendall, Co. Antrim, BT44 0QF) and
+> hours (Mon–Fri 9–5) exist in site metadata — confirm with owner whether to
+> display them in the redesign.
 
-- Phone / Email enquiry
-- Contact form (fields `_TODO_` — capture from live site)
+## Contact form
 
-## Map / embeds
+A Jetpack contact form is embedded on the page ("Submit a form."). Fields not
+exposed via the API — capture the field list from the live form if the redesign
+reuses it. There is also a thank-you page: <https://mccollammarine.com/enquiry-thank-you/>
 
-_TODO_ (capture map embed + any social links from live site)
+## CTA — "Ready to Discuss Your Project?"
 
-## Images on this page
-
-_TODO_ (needs live site / screenshot)
+Request a Quote · Email Us Directly

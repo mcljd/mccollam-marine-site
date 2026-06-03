@@ -1,31 +1,36 @@
 # Passenger Boat Coding
 
-**Source:** <https://mccollammarine.com/passenger-boat-coding/>
-**Status:** Search-derived — verify wording against live site. Images `_TODO_`.
+**Source:** <https://mccollammarine.com/passenger-boat-coding/> (page id 29)
+**Title tag:** Passenger Boat Coding | McCollam Marine – MCA Authorised Surveyor NI
 
-## Body content
+## Hero
 
-McCollam Marine are an Authorised Surveyor for carrying out passenger boat coding
-inspections and completion of the necessary paperwork for the YDSA, YBDSA and Mecal —
-the leading Certifying Authorities for Passenger Boat Coding.
+- **Eyebrow:** Services
+- **H1:** Passenger Boat Coding
+- **Sub:** Expert guidance and survey support for passenger vessel coding and compliance across Northern Ireland, Ireland and the UK.
+- **Hero image:** 2026/01/coding-1-1024x768.jpg
 
-All UK owned Small Commercial Vessels must comply with the relevant Maritime and
-Coastguard Agency (MCA) Codes of Practice. If you wish to charter your boat or use it
-commercially, you must comply with the Codes of Practice. This includes occasional
-commercial use as well as permanent use, and also includes boats such as sport
-fishing boats, RIBs used for rides for the public, and boats taking workers out to
-wind farms and oil rigs, etc.
+## What is Passenger Boat Coding?
 
-### Categories of vessels covered
+Passenger vessel coding is the process by which small commercial vessels carrying passengers are assessed and certified for safe operation. In the UK and Ireland, this is governed by the relevant Codes of Practice — including the MCA's Code of Practice for Small Commercial Vessels (the "MGN" codes) and equivalent Irish codes.
 
-- Sailing charter vessels, including skippered and bareboat
-- Motor charter vessels, including angling and dive boats
-- Boats carrying no more than 12 passengers (excluding crew)
+McCollam Marine guides vessel owners through the entire coding process — from initial assessment and documentation through to final survey and certification.
 
-## Calls to action
+## Our Coding Services
 
-- Contact us to arrange a coding inspection
+- Initial vessel assessment and coding pathway advice
+- Preparation of all required technical documentation
+- Liaison with MCA, Mecal, YDSA and other certifying authorities
+- Stability assessment and stability book preparation
+- Survey support and deficiency management
+- Renewal surveys and ongoing compliance support
 
-## Images on this page
+## Who We Work With
 
-_TODO_ (needs live site / screenshot)
+- **Ferry Operators** — River and coastal passenger ferry services requiring coding certification and renewal surveys.
+- **Charter Vessels** — Boat charter and passenger excursion operators across Northern Ireland and Ireland.
+- **Commercial Operators** — Workboats and vessels carrying personnel that fall within passenger coding requirements.
+
+## CTA — "Ready to Discuss Your Project?"
+
+Request a Quote · Email Us Directly

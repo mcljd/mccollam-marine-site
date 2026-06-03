@@ -1,29 +1,36 @@
 # Boat Surveys
 
-**Source:** <https://mccollammarine.com/boat-surveys/>
-**Status:** Search-derived — verify wording against live site. Images `_TODO_`.
+**Source:** <https://mccollammarine.com/boat-surveys/> (page id 60)
+**Title tag:** Boat Surveys | McCollam Marine – Pre-Purchase & Insurance Surveys NI
 
-## Body content
+## Hero
 
-Boat Surveys are carried out on all types of Commercial and Leisure boats, covering
-Northern Ireland, Ireland, the UK and Worldwide. McCollam Marine is recognised by the
-major Certifying Authorities including the YDSA, Mecal and the MCA.
+- **Eyebrow:** Services
+- **H1:** Boat Surveys
+- **Sub:** Pre-purchase, insurance and condition surveys across all vessel types — delivered with accuracy, independence and full regulatory knowledge.
+- **Hero image:** 2026/01/surveys-2-edited-1024x768.jpg
 
-### Survey types
+## Professional Marine Surveys
 
-- **Pre-Purchase Surveys** — An in-depth inspection of the boat to give a clear
-  indication of the condition of the vessel prior to purchase.
-- **Insurance Surveys** — Required by the majority of insurers once a vessel goes
-  over a certain age.
-- **Damage Surveys** — Generally carried out at the request of the insurance company
-  if a vessel has been involved in an accident.
-- **Condition and Valuation Surveys** — Generally carried out at the request of
-  potential owners or the lending institution before lending terms can be agreed.
+Whether you are buying a vessel, renewing insurance, or need a statutory inspection — McCollam Marine delivers thorough, independent surveys that give you clear, actionable information about your vessel's condition and compliance status.
 
-## Calls to action
+## Types of Survey
 
-- Contact us to book a survey
+- **Pre-Purchase Survey** — A comprehensive assessment of a vessel's structural condition, machinery, safety equipment and compliance status before you commit to purchase.
+- **Insurance Survey** — Independent condition survey reports prepared to the standard required by marine insurers across the UK and Ireland.
+- **Condition Survey** — Periodic condition assessments for vessel owners and operators who want a clear picture of their vessel's current state.
+- **Statutory Survey** — Surveys carried out under the relevant Codes of Practice for commercial and passenger vessels as an authorised surveyor.
+- **Valuation Survey** — Vessel valuations for sale, purchase, financing or estate purposes, based on thorough inspection and market knowledge.
+- **Damage Survey** — Assessment of damage following incidents, groundings or accidents — supporting insurance claims and repair scoping.
 
-## Images on this page
+## Vessel Types
 
-_TODO_ (needs live site / screenshot)
+- Fishing vessels — commercial and recreational
+- Passenger vessels and ferries
+- Leisure cruisers, sailing yachts and motorboats
+- Workboats and pilot vessels
+- RIBs and inflatable craft
+
+## CTA — "Ready to Discuss Your Project?"
+
+Request a Quote · Email Us Directly
