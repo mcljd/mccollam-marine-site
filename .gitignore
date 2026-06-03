@@ -1,0 +1,24 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs / temp
+*.log
+.cache/
+tmp/
+*.tmp
+
+# Node (in case tooling is added later for a static build)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+dist/
+.parcel-cache/
+
+# Environment
+.env
+.env.*
