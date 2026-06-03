@@ -1,4 +1,4 @@
-<!-- AUTO-GENERATED self-contained preview of index.html. Edit index.html + assets/, then regenerate. -->
+<!-- AUTO-GENERATED self-contained preview of index.html. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -334,13 +334,19 @@ h1,h2,h3,h4{font-weight:500;line-height:1.02;letter-spacing:-.02em}
 /* ============================================================
    reveal
    ============================================================ */
-.reveal{transition:opacity .7s var(--ease),transform .7s var(--ease)}
-html.js .reveal{opacity:0;transform:translateY(26px)}
-.reveal.in{opacity:1;transform:none}
-.reveal[data-d="1"]{transition-delay:.07s}
-.reveal[data-d="2"]{transition-delay:.14s}
-.reveal[data-d="3"]{transition-delay:.21s}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1;transform:none;transition:none}}
+/* ============================================================
+   reveal — pure-CSS entrance. Content is ALWAYS visible at rest;
+   if animations/JS don't run, everything still shows.
+   ============================================================ */
+@keyframes mm-rise{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+.reveal{opacity:1}
+@media(prefers-reduced-motion:no-preference){
+  .reveal{animation:mm-rise .7s var(--ease) both}
+  .reveal[data-d="1"]{animation-delay:.10s}
+  .reveal[data-d="2"]{animation-delay:.20s}
+  .reveal[data-d="3"]{animation-delay:.30s}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 /* draw-on for schematic strokes */
 .draw{}
@@ -539,16 +545,16 @@ html.js .reveal{opacity:0;transform:translateY(26px)}
 </section>
 
 <!-- ============ ABOUT / DATA SHEET ============ -->
-<section class="section about" id="about">
-  <div class="wrap" style="display:contents">
-    <div class="ds-figure reveal" style="padding-left:var(--gutter)">
+<section class="section" id="about" style="background:var(--paper-2)">
+  <div class="wrap about">
+    <div class="ds-figure reveal">
       <div class="frame">
         <span class="plate">PL.00 — Principal Surveyor</span>
         <img src="https://mccollammarine.com/wp-content/uploads/2026/01/pilot-3-1024x768.jpg" alt="Pilot vessel underway">
         <span class="dim r">SCALE 1:1 · ON SITE</span>
       </div>
     </div>
-    <div class="ds-text reveal" data-d="1" style="padding-right:var(--gutter)">
+    <div class="ds-text reveal" data-d="1">
       <div class="num mono" style="color:var(--ink-3);font-size:.72rem;letter-spacing:.12em;margin-bottom:1.2rem">02 / THE PRACTICE</div>
       <h2 class="h2">Three decades on the water,<br>and at the drawing board.</h2>
       <p class="lead" style="margin-top:1.2rem">McCollam Marine was established in 2011 to provide naval architecture and marine surveying to the commercial and leisure fleet. Founded and led by <b style="font-weight:500;color:var(--ink)">Joe McCollam</b> — BEng (Hons) Naval Architect, authorised surveyor and serving RNLI lifeboat coxswain — the practice pairs first-hand sea experience with rigorous, regulation-ready engineering.</p>
